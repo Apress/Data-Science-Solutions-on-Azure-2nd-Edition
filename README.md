@@ -1,7 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Data Science Solutions on Azure, Second Edition*](https://link.springer.com/book/	
-9798868809132) by Julian Soh and Priyanshi Singh (Apress, 2024).
+This repository accompanies [*Data Science Solutions on Azure, Second Edition*](https://link.springer.com/book/9798868809132) by Julian Soh and Priyanshi Singh (Apress, 2024).
 
 [comment]: #cover
 ![Cover image](979-8-8688-0913-2.jpg)
